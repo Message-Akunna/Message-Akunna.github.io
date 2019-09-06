@@ -44,7 +44,9 @@ document.getElementById("validateForm")
         }
         /*-----------------------------------------------*/
         else{
-        	// document.myForm
+        	document.getElementById("errorMessage").innerHTML = "All is set, ready to submit!";
+            document.getElementById("errorMessage").classList.remove('error-message');
+            document.getElementById("errorMessage").classList.add('success-message');
         	document.myForm.submit.disabled = false;
         	return true;
         }

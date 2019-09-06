@@ -104,13 +104,20 @@ section ul li{
 
 /*Form design
 -------------------------*/
-/*error message*/
+/*alert message*/
 .error-message{
 	background-color: rgba(250, 30, 30, 0.1);
 	padding: 10px;
 	color: #dd5555;
 	border: 1px solid #dd5555;
 }
+.success-message{
+	background-color: rgba(30, 250, 30, 0.1);
+	padding: 10px;
+	color: #55dd55;
+	border: 1px solid #55dd55;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], input[type=email], textarea {
   width: 100%; 

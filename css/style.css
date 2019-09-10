@@ -42,17 +42,20 @@ h1{
 }
 
 h2{
-	font-size: 24px;
+	font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     margin: 5px;
 }
 
 address{
-	font-size: 14px;
+	font-size: 12px;
     color: #666666;
     font-weight: 400;
     font-style: normal;
+}
+p{
+    font-size: 10px;
 }
 
 a{
@@ -77,7 +80,7 @@ section{
 }
 
 section > h3{
-	font-size: 18px;
+	font-size: 16px;
     font-weight: 700;
     color: #555555;
 }
@@ -93,7 +96,7 @@ section ul{
 }
 
 section ul li{
-	font-size: 14.666666px;
+	font-size: 12.666666px;
     color: #353744;
     font-weight: 400;
 }

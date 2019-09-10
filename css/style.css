@@ -100,11 +100,11 @@ section div h4{
 
 section ul{
 	border-left: 1px solid #00ab44;
-	margin-left: 20px;
+	margin-left: 14px;
 }
 
 section ul li{
-	font-size: 12.666666px;
+	font-size: 14px;
     color: #353744;
     font-weight: 400;
 }

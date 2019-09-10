@@ -37,6 +37,10 @@ body{
 
 /*	Header	
 -----------------*/
+header{
+	padding-top: 20px;
+}
+
 img{
 	width: 200px;
 	height: auto;
@@ -186,4 +190,6 @@ input.error{
 /* Add a background color and some padding around the form */
 .form-container {
   background-color: rgb(250, 250, 250);
+  padding-top: 20px;
+  padding-bottom: 20px;
 }

@@ -86,12 +86,14 @@ hr{
 
 section{
 	margin-bottom: 20px;
-	padding: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 @media(max-width: 804px){
 	section{
-		padding: 20px !important;
+		padding-left: 20px !important;
+		padding-right: 20px !important;
 	}
 }
 

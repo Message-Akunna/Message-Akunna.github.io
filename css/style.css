@@ -19,7 +19,7 @@ body{
 }
 
 @media(max-width: 804px){
-	
+
 }
 
 .text-default{
@@ -57,13 +57,13 @@ h2{
 }
 
 address{
-	font-size: 12px;
+	font-size: 14px;
     color: #666666;
     font-weight: 400;
     font-style: normal;
 }
 p{
-    font-size: 12.666666px;
+    font-size: 14px;
 }
 
 a{
@@ -94,7 +94,7 @@ section > h3{
 }
 
 section div h4{
-	margin-bottom: 10px;
+	margin-bottom: 12px;
 	color: #555555;
 }
 

@@ -15,6 +15,7 @@ body{
 	box-shadow: 0 3px 6px rgba(100, 100, 100, 0.16), 0 3px 6px rgba(100, 100, 100, 0.23);
 	font-family: Arial, Helvetica, sans-serif;
 	border-top: 4px solid #00ab44;
+        letter-spacing: 2px;
 }
 
 @media(max-width: 804px){
